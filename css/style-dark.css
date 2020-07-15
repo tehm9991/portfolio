@@ -994,7 +994,7 @@ blockquote:after,
 			background-size: cover;
 	background-position: center;
 	padding: 75px 0;
-	background-image: url(../img/about-bg.jpg);
+	background-image: url(../img/cover-photo.jpg);
 	z-index: -2;
 }
 
