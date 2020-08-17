@@ -656,23 +656,9 @@ blockquote:after,
 			transition-delay: .2s;
 }
 
-/* Menu Item 4 */
-.item-4 {
-	top: 66px;
-	-webkit-transition-delay: .5s;
-			transition-delay: .5s;
-	-webkit-transform: translate(2rem, 22rem);
-			transform: translate(2rem, 22rem);
-}
-
-.menu-active .item-4 {
-	-webkit-transition-delay: .3s;
-			transition-delay: .3s;
-}
-
 /* Menu Item 5 */
 .item-5 {
-	top: 108px;
+	top: 66px;
 	-webkit-transition-delay: .6s;
 			transition-delay: .6s;
 	-webkit-transform: translate(0, 14rem);
