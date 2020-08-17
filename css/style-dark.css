@@ -842,9 +842,10 @@ blockquote:after,
     padding: 0;
     overflow: hidden;
     -webkit-background-size: cover;
-    background-size: cover;
+	background-size: cover;
     background-position: center;
 }
+
 
 .page-1:after {
 	content: '';
